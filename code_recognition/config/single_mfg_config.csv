@@ -1,0 +1,6 @@
+key,type,encoding,value
+aliyun-key,namespace,,
+DeviceName,data,string,FP_box_001
+DeviceSecret,data,string,9dc871f6c898524fb44973620efabb15
+ProductKey,data,string,a1BC3i5kPNZ
+ProductSecret,data,string,53VDT2l6tly3zyWX
