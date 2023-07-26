@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"app_peripherals.h": "c",
+			"esp_system.h": "c",
+			"conn_mgr.h": "c",
+			"string": "c",
+			"uart.h": "c",
+			"esp_log.h": "c",
+			"array": "c",
+			"string_view": "c",
+			"nvs_flash.h": "c",
+			"who_camera.h": "c",
+			"esp_err.h": "c",
+			"who_adc_button.h": "c",
+			"who_color_detection.hpp": "c",
+			"event_logic_face.hpp": "c",
+			"gpio.h": "c",
+			"esp_event.h": "c",
+			"task.h": "c",
+			"freertos.h": "c",
+			"mqtt_solo.h": "c",
+			"nvs.h": "c",
+			"who_lcd.h": "c",
+			"event_logic_color.cpp": "c",
+			"event_logic_color.hpp": "c",
+			"functional": "cpp",
+			"who_button.h": "c",
+			"queue.h": "c"
+		}
+	}
+}
